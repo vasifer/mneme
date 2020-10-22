@@ -7,10 +7,10 @@
 
 
 # Assembly List
-*Arduino Uno (Rev3)
-*DFPlayer MINI
-*Red (633nm) LED
-*Photocell (LDR)
-*10kΩ Resistor
-*1kΩ Resistor
-*SPEAKER
+* Arduino Uno (Rev3)
+* DFPlayer MINI
+* Red (633nm) LED
+* Photocell (LDR)
+* 10kΩ Resistor
+* 1kΩ Resistor
+* SPEAKER
