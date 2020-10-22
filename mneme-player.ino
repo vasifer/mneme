@@ -115,5 +115,5 @@ void loop() {
   Serial.print("sensor = ");
   Serial.println(sensorValue);
 
-  delay(1000); // delay one second for next sensor value
+  delay(500); // delay 500  milliseconds for next sensor value
 }
